@@ -1,8 +1,5 @@
-# React + Vite
+<h3>Formik ve yup ile react form validasyon işlemlerine örnek bir çalışma</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![img1](https://github.com/emrahbyz/Formik-Project/assets/146847947/8ca52256-6cf7-4560-915c-86fbebece646)
+![img2](https://github.com/emrahbyz/Formik-Project/assets/146847947/32ca60ca-51f2-49b1-a5aa-ca467154b4c3)
+![img3](https://github.com/emrahbyz/Formik-Project/assets/146847947/9b5c4eee-0958-4edb-9758-4ed354e2eb46)
